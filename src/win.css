@@ -51,3 +51,37 @@
 	height: 3px;
 	rx: 2px;
   }
+
+  /* Window */
+.wordmark-2iDDfm svg {
+    display: none;
+  }
+  
+  #app-mount,
+  .container-16j22k,
+  .perksModalContentWrapper-2HU6uL {
+    background: linear-gradient(var(--sheer), var(--sheer)),var(--ankeer) center/30% fixed;
+  }
+  
+  #app-mount .app-2rEoOp, 
+  #app-mount .layers-3iHuyZ,
+  .privateChannels-1nO12o,
+  .container-2lgZY8,
+  #app-mount .layer-3QrUeG,
+  .bg-h5JY_x {
+    background-color: transparent;
+  }
+  
+  .titleBar-AC4pGV:not(.typeMacOS-3EmCyP)::after {
+	font-family: 'Roboto Mono', monospace;
+    content: "ankeerTheme";
+    position: absolute;
+    top: 5px;
+    left: 10px;
+    color: rgb(170, 170, 170);
+    display: block;
+    height: 16px;
+    width: fit-content;
+    pointer-events: none;
+    font-size: 14px;
+  }
