@@ -1,0 +1,232 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata&family=Roboto+Mono:wght@500&display=swap');
+
+/*Background + color*/
+body,
+#app-mount,
+#app-mount .app-1q1i1E,
+#app-mount .app-2rEoOp,
+#app-mount .container-16j22k.fixClipping-3qAKRb, 
+#app-mount .wrapper-1prNyd,
+#app-mount .bg-h5JY_x,
+#app-mount .layer-3QrUeG,
+#app-mount .container-3w7J-x,
+#app-mount .privateChannels-1nO12o,
+#app-mount .panels-j1Uci_ > *,
+#app-mount .chat-3bRxxu,
+#app-mount .wrapper-3vR61M,
+#app-mount .noChat-9aipKz,
+#app-mount .members-1998pB,
+#app-mount .members-1998pB > div,
+#app-mount .container-1D34oG,
+#app-mount .applicationStore-1pNvnv,
+#app-mount .pageWrapper-1PgVDX,
+#app-mount .scrollerBase-289Jih,
+#app-mount .standardSidebarView-3F1I7i,
+#app-mount .contentRegion-3nDuYy {
+	background-color: transparent;
+}
+/* поле ввода */
+#app-mount .scrollableContainer-2NUZem {
+  background-color: rgba(0, 0, 0, 0.075)
+}
+
+/* кнопки "видео" "экран" */
+#app-mount .button-1YfofB {
+  background-color: rgba(0, 0, 0, 0.377)
+}
+
+/* превью в внешнем виде */
+#app-mount .preview-2nSL_2 {
+  background-color:rgba(0, 0, 0, 0.2)
+}
+
+
+/* выставление счетов окно */
+#app-mount .modal-1qeMox {
+  background-color:rgba(58, 58, 58, 0.308)
+}
+
+/* интеграции */
+#app-mount .accountList-33MS45 {
+  background-color:rgba(0, 0, 0, 0.288)
+}
+#app-mount .connection-1fbD7X {
+  background-color: rgba(0, 0, 0, 0.164)
+}
+#app-mount .connectionHeader-2MDqhu {
+  background-color:rgba(0, 0, 0, 0.301)
+}
+
+
+
+
+/* авторизованные приложения */
+#app-mount .authedApp-mj2Hmd {
+  background-color:rgba(0, 0, 0, 0.288)
+}
+
+/* остальные кнопки */
+#app-mount .fieldButton-27bJrp {
+  background-color:#7289da
+}
+/* кнопка удаления номера телефона */
+#app-mount .removeButton-3vophT {
+  background-color: #ed4245;
+}
+
+#app-mount .modal-3O0aXp {
+  background-color: rgba(82, 82, 82, 0.212);
+}
+/* дата сообщений */
+#app-mount .content-1o0f9g {
+  padding: 0.5%;
+  color: rgba(255, 255, 255, 0.61)
+}
+
+/* список ролей слева от чата */
+#app-mount .membersGroup-v9BXpm {
+  margin-bottom: 3%;
+}
+
+#app-mount .layer-v9HyYc {
+  background-color: none;
+}
+
+
+/* активность в друзьях */
+#app-mount .container-lRFx4q {
+  background-color: rgba(15, 15, 15, 0.178)
+}
+
+#app-mount .children-19S4PO:after {
+	display: none;
+}
+
+#app-mount .wrapper-3NnKdC {
+	background-color: rgba(0, 0, 0, 0.3);
+}
+#app-mount .container-1r6BKw.themed-ANHk51,
+#app-mount .sidebarRegion-VFTUkN,
+#app-mount .sidebar-2K8pFh,
+#app-mount .panels-j1Uci_,
+#app-mount .membersWrap-2h-GB4,
+#app-mount .nowPlayingColumn-2sl4cE {
+	background-color: rgba(24, 24, 24, 0.2);
+}
+
+#app-mount .body-3iLsc4 {
+  background-color: rgba(15, 15, 15, 0.178);
+}
+
+/* Window */
+.wordmark-2iDDfm svg {
+    display: none;
+  }
+  
+  #app-mount,
+  .container-16j22k,
+  .perksModalContentWrapper-2HU6uL {
+    background: linear-gradient(var(--sheer), var(--sheer)),var(--ankeer) center/30% fixed;
+  }
+  
+  #app-mount .app-2rEoOp, 
+  #app-mount .layers-3iHuyZ,
+  .privateChannels-1nO12o,
+  .container-2lgZY8,
+  #app-mount .layer-3QrUeG,
+  .bg-h5JY_x {
+    background-color: transparent;
+  }
+  
+  .titleBar-AC4pGV:not(.typeMacOS-3EmCyP)::after {
+	font-family: 'Roboto Mono', monospace;
+    content: "ankeerTheme";
+    position: absolute;
+    top: 5px;
+    left: 10px;
+    color: rgb(170, 170, 170);
+    display: block;
+    height: 16px;
+    width: fit-content;
+    pointer-events: none;
+    font-size: 14px;
+  }
+
+  
+
+  #app-mount .profile-1eT9hT {
+    background-color:rgba(0, 0, 0, 0.212);
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-right: 1%;
+    padding-left: 1%;
+    border-radius: 10px;
+  }
+  /* бэкграунд учетки */
+  #app-mount .fieldList-21DyL8 {
+    background-color: rgba(0, 0, 0, 0.212)
+  }
+
+  /* название параметров по середине */
+  #app-mount .header-2RyJ0Y {
+    text-align: center;
+  }
+
+  /* бэкграунд учетки */
+  #app-mount .background-1QDuV2 {
+    background-color: rgba(0, 0, 0, 0.2)
+  }
+  
+  /* кнопки панели */
+  .winButtonMinMax-PBQ2gm:hover {
+    background-color: var(--blurple);
+  }
+  
+  .titleBar-AC4pGV {
+    background-color: transparent;
+  }
+
+  .winButton-iRh8-Z:not(:last-child) > svg {
+	display: none;
+  }
+  .winButton-iRh8-Z:hover {
+	background-color: var(--background-teritary);
+  }
+  .winButton-iRh8-Z:not(:last-child)::after {
+	content: "";
+	border-radius: 50px;
+	pointer-events: fill;
+  }
+  .winButtonClose-1HsbF- {
+	margin-right: 5px;
+  }
+  .winButtonClose-1HsbF-:after {
+	padding: 6px;
+  }
+  .winButtonClose-1HsbF-::after {
+	background-image: url("https://raw.githack.com/anceer/themediscord/main/close.png");
+	background-size: 100%;
+  }
+  .winButtonClose-1HsbF-:hover::after {
+	background-image: url("https://raw.githack.com/anceer/themediscord/main/close_hover.png");
+	background-size: 100%;
+  }
+  
+  .winButtonMinMax-PBQ2gm:nth-child(3):after {
+	background-color: #ffbd4a;
+	padding: 5px;
+  }
+  .winButtonMinMax-PBQ2gm:nth-child(3):hover::after {
+	background-color: #faa81ae5;
+  }
+  
+  .winButtonMinMax-PBQ2gm:last-child {
+	color: #6fd3a6;
+  }
+  .winButtonMinMax-PBQ2gm:last-child:hover {
+	color: #43b582e3;
+  }
+  .winButtonMinMax-PBQ2gm:last-child rect {
+	height: 3px;
+	rx: 2px;
+  }
