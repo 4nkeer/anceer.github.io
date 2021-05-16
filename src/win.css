@@ -25,11 +25,11 @@
 	padding: 6px;
   }
   .winButtonClose-1HsbF-::after {
-	background-image: url("https://raw.githack.com/anceer/themediscord/main/close.png");
+	background-image: url("https://anceer.github.io/svg/close.png");
 	background-size: 100%;
   }
   .winButtonClose-1HsbF-:hover::after {
-	background-image: url("https://raw.githack.com/anceer/themediscord/main/close_hover.png");
+	background-image: url("https://anceer.github.io/svg/close_hover.png");
 	background-size: 100%;
   }
   
