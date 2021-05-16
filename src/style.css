@@ -3,7 +3,7 @@
 @import url('https://anceer.github.io/svg/close_hove.png');
 
 /*Background + color*/
-/* body,
+body,
 #app-mount,
 #app-mount .app-1q1i1E,
 #app-mount .app-2rEoOp,
@@ -26,7 +26,7 @@
 #app-mount .standardSidebarView-3F1I7i,
 #app-mount .contentRegion-3nDuYy {
 	background-color: transparent;
-} */
+}
 /* поле ввода */
 #app-mount .scrollableContainer-2NUZem {
   background-color: rgba(0, 0, 0, 0.075)
