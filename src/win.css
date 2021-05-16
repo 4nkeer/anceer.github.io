@@ -72,8 +72,8 @@
     background-color: transparent;
   }
   
-  .titleBar-AC4pGV:not(.typeMacOS-3EmCyP)::after {
-	font-family: 'Roboto Mono', monospace;
+.titleBar-AC4pGV:not(.typeMacOS-3EmCyP)::after {
+    font-family: 'Roboto Mono', monospace;
     content: "ankeerTheme";
     position: absolute;
     top: 5px;
@@ -84,4 +84,4 @@
     width: fit-content;
     pointer-events: none;
     font-size: 14px;
-  }
+}
