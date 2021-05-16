@@ -45,8 +45,12 @@
 #app-mount .connectionHeader-2MDqhu {
   background-color:rgba(0, 0, 0, 0.301)
 }
-
-
+/* окно удаления друзей */
+#app-mount .root-1gCeng {
+  background: rgb(130,89,249);
+  background: linear-gradient(90deg, rgba(130,89,249,1) 0%, rgba(0,114,255,1) 100%);
+  }
+  
 
 
 /* авторизованные приложения */
