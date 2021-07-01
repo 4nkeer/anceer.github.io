@@ -4,6 +4,29 @@
 	background-image: url("https://anceer.github.io/images/background.jpg");
 } */
 
+body{
+background-size:100%;
+	background-repeat: no-repeat;
+	background-image: url("https://anceer.github.io/images/background.jpg");
+}
+
+.scroller-1Bvpku {
+	background-color: rgba(15, 15, 15, 0.527);
+}
+
+.container-3w7J-x{
+	background-color: rgba(15, 15, 15, 0.527);
+}
+
+.chat-3bRxxu {
+	background-color: rgba(15, 15, 15, 0.600);
+}
+
+.hiddenMembers-2dcs_q{
+	background-color: rgba(15, 15, 15, 0.527);
+}
+	
+
 #app-mount .children-19S4PO:after {
 	display: none;
 }
@@ -22,4 +45,5 @@
 
 #app-mount .body-3iLsc4 {
   background-color: rgba(15, 15, 15, 0.178);
+  background-color: rgba(15, 15, 15, 0.527);
 }
