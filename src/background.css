@@ -1,27 +1,6 @@
 
 /*Background + color*/
-body,
-#app-mount,
-#app-mount .app-1q1i1E,
-#app-mount .app-2rEoOp,
-#app-mount .container-16j22k.fixClipping-3qAKRb, 
-#app-mount .wrapper-1prNyd,
-#app-mount .bg-h5JY_x,
-#app-mount .layer-3QrUeG,
-#app-mount .container-3w7J-x,
-#app-mount .privateChannels-1nO12o,
-#app-mount .panels-j1Uci_ > *,
-#app-mount .chat-3bRxxu,
-#app-mount .wrapper-3vR61M,
-#app-mount .noChat-9aipKz,
-#app-mount .members-1998pB,
-#app-mount .members-1998pB > div,
-#app-mount .container-1D34oG,
-#app-mount .applicationStore-1pNvnv,
-#app-mount .pageWrapper-1PgVDX,
-#app-mount .scrollerBase-289Jih,
-#app-mount .standardSidebarView-3F1I7i,
-#app-mount .contentRegion-3nDuYy {
+body{
 	background-image: url("https://anceer.github.io/images/background.jpg");
 }
 
