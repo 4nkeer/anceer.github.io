@@ -33,21 +33,21 @@
 	background-size: 100%;
   }
   
-  .winButtonMinMax-PBQ2gm:nth-child(3):after {
+  .winButtonMinMax-3RsPUg:nth-child(3):after {
 	background-color: #ffbd4a;
 	padding: 5px;
   }
-  .winButtonMinMax-PBQ2gm:nth-child(3):hover::after {
+  .winButtonMinMax-3RsPUg:nth-child(3):hover::after {
 	background-color: #faa81ae5;
   }
   
-  .winButtonMinMax-PBQ2gm:last-child {
+  .winButtonMinMax-3RsPUg:last-child {
 	color: #6fd3a6;
   }
-  .winButtonMinMax-PBQ2gm:last-child:hover {
+  .winButtonMinMax-3RsPUg:last-child:hover {
 	color: #43b582e3;
   }
-  .winButtonMinMax-PBQ2gm:last-child rect {
+  .winButtonMinMax-3RsPUg:last-child rect {
 	height: 3px;
 	rx: 2px;
   }
