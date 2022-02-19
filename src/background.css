@@ -5,11 +5,10 @@
 } */
 
 body{
-background-size:100%;
+	background-size:100%;
 	background-repeat: no-repeat;
-	background-image: url("https://anceer.github.io/images/background.jpg");
+	background-color:transparent;
 }
-
 .scroller-1Bvpku {
 	background-color: rgba(15, 15, 15, 0.527);
 }
