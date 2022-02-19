@@ -18,17 +18,17 @@
 	border-radius: 50px;
 	pointer-events: fill;
   }
-  .winButtonClose-1HsbF- {
+  .winButtonClose-3Q8ZH5 {
 	margin-right: 5px;
   }
-  .winButtonClose-1HsbF-:after {
+  .winButtonClose-3Q8ZH5:after {
 	padding: 6px;
   }
-  .winButtonClose-1HsbF-::after {
+  .winButtonClose-3Q8ZH5::after {
 	background-image: url("https://anceer.github.io/svg/close.png");
 	background-size: 100%;
   }
-  .winButtonClose-1HsbF-:hover::after {
+  .winButtonClose-3Q8ZH5:hover::after {
 	background-image: url("https://anceer.github.io/svg/close_hover.png");
 	background-size: 100%;
   }
